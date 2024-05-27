@@ -1,6 +1,4 @@
-<a href="https://www.figma.com/design/jRRuFBiqa6rcjqTTnnpsHM/Untitled?node-id=0-1&t=ujjkTLvFUiIGeWtM-0">Figma</a>  
-<a href="https://www.youtube.com/watch?v=IwHt_QpIa8A">Figma</a>  
-React to iOS App : 
+<a href="https://www.figma.com/design/jRRuFBiqa6rcjqTTnnpsHM/Untitled?node-id=0-1&t=ujjkTLvFUiIGeWtM-0">Figma</a> / <a href="https://www.youtube.com/watch?v=IwHt_QpIa8A">React to iOS</a>
 
   # Untitled
 
