@@ -7,3 +7,5 @@ Deployment requires external setup from your end with Xcode. See ressources belo
   
 Resources:  
 [Figma](https://www.figma.com/design/jRRuFBiqa6rcjqTTnnpsHM/Untitled?node-id=0-1&t=ujjkTLvFUiIGeWtM-0) / [React to iOS](https://www.youtube.com/watch?v=IwHt_QpIa8A) / [Build app to iPhone](https://youtu.be/bqh6YaMxgbE)
+  
+![stm747](./stm747.png)
