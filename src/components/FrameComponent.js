@@ -53,20 +53,20 @@ const FrameComponent = ({ className = "" }) => {
 
   return (
     <div
-      className={`flex-1 flex flex-col items-start justify-start gap-[1.312rem] max-w-full text-left text-[3.438rem] text-black font-inter ${className}`}
+      className={`flex-1 flex flex-col items-start justify-start gap-[1.312rem] max-w-full text-left text-[3.3rem] text-black font-inter ${className}`}
     >
 
       <div className="flex flex-row items-start justify-start py-[0rem] px-[3.375rem] box-border max-w-full mq333:pl-[1.25rem] mq333:pr-[1.25rem] mq333:box-border">
         <b className="relative whitespace-nowrap">{currentTime}</b>
       </div>
-      <div className="flex flex-row items-start justify-start pt-[0rem] px-[0.062rem] pb-[1.062rem] box-border max-w-full text-[2.813rem] text-white">
+      <div className="flex flex-row items-start justify-start pt-[0rem] px-[0.062rem] pb-[1.062rem] box-border max-w-full text-[2.6rem] text-white">
         <div className="rounded-11xl bg-steelblue flex flex-row items-start justify-start pt-[0.375rem] px-[2.812rem] pb-[0.312rem] box-border gap-[0.75rem] max-w-full mq330:pl-[1.25rem] mq330:pr-[1.25rem] mq330:box-border">
           <div className="h-[4.063rem] w-[20.625rem] relative rounded-11xl bg-steelblue hidden max-w-full" />
           <div className="relative z-[1]">Bus 747 x</div>
           <div className="w-[1.313rem] relative inline-block z-[1]">1</div>
         </div>
       </div>
-      <div className="self-stretch shadow-[0px_1px_4px_-1px_#000] bg-white flex flex-col items-start justify-start pt-[0.687rem] pb-[1.125rem] pr-[0rem] pl-[0.875rem] box-border gap-[1rem] max-w-full text-[1.625rem]">
+      <div className="self-stretch shadow-[0px_1px_4px_-1px_#000] bg-white flex flex-col items-start justify-start pt-[0.687rem] pb-[1.125rem] pr-[0rem] pl-[0.875rem] box-border gap-[1rem] max-w-full text-[1.45rem]">
         <div className="w-[22.563rem] h-[9.813rem] relative shadow-[0px_1px_4px_-1px_#000] bg-white hidden max-w-full" />
         <div className="self-stretch flex flex-col items-start justify-start gap-[0.562rem]">
           <h2 className="m-0 relative text-inherit font-normal font-inherit z-[1]">
